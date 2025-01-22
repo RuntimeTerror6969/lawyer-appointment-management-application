@@ -35,12 +35,6 @@ A single-page application (SPA) built with React, Redux, and Material UI for sch
 
 ---
 
-## **File Structure**
-
-root ├── src │ ├── components │ │ ├── layout │ │ │ ├── Layout.jsx │ │ │ ├── Header.jsx │ │ ├── lawyers │ │ │ ├── LawyerList.jsx │ │ │ ├── LawyerCard.jsx │ │ │ ├── AppointmentForm.jsx │ │ │ ├── AllAppointments.jsx │ ├── data │ │ ├── mockData.js │ ├── store │ │ ├── index.js │ │ ├── slices │ │ │ ├── appointmentSlice.js │ │ │ ├── lawyerSlice.js │ ├── App.jsx │ ├── index.js │ └── public ├── index.html
-
----
-
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
