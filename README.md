@@ -42,7 +42,7 @@ A single-page application (SPA) built with React, Redux, and Material UI for sch
 ```bash
 git clone https://github.com/RuntimeTerror6969/lawyer-appointment-management-application
 cd lawyer-appointment-management-application
-
+```
 
 2. Install Dependencies
 
@@ -66,4 +66,7 @@ Development Notes
     Mock Data: Stored in /src/data/mockData.js.
     State Management: Implemented via Redux slices for appointments and lawyers.
     UI Components: Reusable Material UI components for efficiency.
+
+```
+
 ```
