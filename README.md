@@ -46,8 +46,9 @@ root ├── src │ ├── components │ │ ├── layout │ │ │
 ### **1. Clone the Repository**
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/RuntimeTerror6969/lawyer-appointment-management-application
+cd lawyer-appointment-management-application
+
 
 2. Install Dependencies
 
@@ -57,9 +58,9 @@ npm install
 
 3. Start the Application Locally
 
-npm start
+npm run dev
 
-The app will be hosted on http://localhost:3000/.
+The app will be hosted on http://localhost:5173/.
 How to Use
 
     View Lawyers: Visit the home page to browse a list of lawyers.
