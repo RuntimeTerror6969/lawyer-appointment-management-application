@@ -48,13 +48,18 @@ cd lawyer-appointment-management-application
 
 Ensure you have node and npm installed. Run:
 
+```bash
 npm install
+```
 
 3. Start the Application Locally
 
+```bash
 npm run dev
+```
 
 The app will be hosted on http://localhost:5173/.
+
 How to Use
 
     View Lawyers: Visit the home page to browse a list of lawyers.
